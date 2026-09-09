@@ -9,8 +9,8 @@
 
 開発元：あまた株式会社さま [HP](https://amata.co.jp/ "あまた")
 
-# 参考動画
-![代替テキスト](images/tsuda.mp4)
+# その他
+"完成"したら配布したいです
 
-#
+# 参考動画
 https://github.com/user-attachments/assets/bc6c4173-bd27-4b4f-9997-901610b59190
